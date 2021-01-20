@@ -2,21 +2,15 @@
 
 <br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://giphy.com/stickers/devrock-node-nodejs-edr-kdFc8fubgS31b8DsVu" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
   
 </p>
-<img align="left" width="150" height="150" alt="Dani Akash" src="ezgif.com-gif-maker (2).gif"/>
-
 <h1>I'm <a  href="https://yasharth291.github.io/">Yasharth Dubey</a></h1>
 <p align="left">
 <a href="https://twitter.com/dubey_yasharth" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yasharth-dubey-0434b6155/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="yashdubeywinner@gmail.com" target="_blank"><img height="30" src="https://www.flaticon.com/free-icon/gmail_324123"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 <h4/>A ML enthusiat, Full Stack and Flutter developer from Mathura. I love to solve problems created by others ;).<h4/>
-
-<img align="right" width="350" height="180" src="ezgif.com-gif-maker.gif"/>
 
 ### I'm Currently
 
