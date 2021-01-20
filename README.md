@@ -77,27 +77,6 @@
 <br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/yasharth291?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-
--->
-
-
 
 <h2 align="center">Things I code with</h2>
 <table>
@@ -126,16 +105,16 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
     </tr>
     <tr>
       <td width="25%" align="center">
-        <span>Sublime</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <span>VSCode</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
       </td>
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Figma</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png">
+        <span>Reactjs</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif">
       </td>
        <td width="25%" align="center">
         <span>Flutter</span><br><br><br>
