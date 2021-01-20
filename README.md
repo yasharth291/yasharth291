@@ -31,7 +31,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/yasharth291/yasharth291/blob/main/DRI.png" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://github.com/yasharth291/yasharth291/blob/main/DRI.png" width="100"><img src="https://github.com/yasharth291/yasharth291/blob/main/0.jpg" width="100">
   <br><br>
 
 
