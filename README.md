@@ -78,13 +78,21 @@
 <h4 align="center"><a href=https://github.com/yasharth291?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 
-<h2 align="center">Things I code with</h2>
+<h2 align="center">I code with</h2>
 <table>
   <tbody>
     <tr>
       <td width="25%" align="center">
         <span>C++</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>C++</span><br><br><br>
+        <img height="64px" src="https://www.flaticon.com/free-icon/java_152760?term=java&page=1&position=2&page=1&position=2&related_id=152760&origin=tag">
+      </td>
+      <td width="25%" align="center">
+        <span>C++</span><br><br><br>
+        <img height="64px" src="https://www.flaticon.com/free-icon/java_152760?term=java&page=1&position=2&page=1&position=2&related_id=152760&origin=tag">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
