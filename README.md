@@ -91,7 +91,7 @@
         <img height="64px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
+        <span>Git</span><br><br><br>
         <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
       </td>
       <td width="25%" align="center">
