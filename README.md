@@ -11,13 +11,13 @@
 <a href="https://twitter.com/dubey_yasharth" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yasharth-dubey-0434b6155/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h4/>A ML enthusiat, Full Stack and Flutter developer from Mathura. I love to solve problems created by others ;).<h4/>
+<h4/>A ML developer, Full Stack and Flutter developer from Mathura. I love to solve problems created by others ;).<h4/>
 
 ### I'm Currently
 
 
 - <h4>📱Programmer but not a pro in grammar<h4/>
-- 📚 Competitve Coder
+- 📚 Competitive Coder
 - ⚛️ I ❤️ Full Stack 
 - ⚛️ I ❤️ Flutter
 - ⚛️ I ❤️ ML
