@@ -39,7 +39,7 @@
   
   
 <hr>
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me on</h2>
 <div align="center" >
   
 <a href="https://github.com/yasharth291" target="_blank">
