@@ -82,9 +82,17 @@
 <table>
   <tbody>
     <tr>
-      <td width="100%" align="center">
+      <td width="25%" align="center">
         <span>C++</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
       </td>
       <td width="25%" align="center">
         <span>HTML5</span><br><br><br>
