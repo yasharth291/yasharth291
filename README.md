@@ -68,7 +68,6 @@
 </div> 
   <br/>
   <p align="center">
- <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
 <hr>
 <h2 align="center">Github Statistics</h2>
