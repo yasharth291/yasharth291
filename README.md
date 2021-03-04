@@ -28,10 +28,11 @@
  - Software Developer (Dessicant Rotors International)
  - Flutter Developer (Pixaflip pvt limited)
  - Competetive Coding Lead (Codechef)
+ - Mentor (GirlScript Summer Of Code 2021)
   
   <br>
   <p align="center">
-  <img src="https://github.com/yasharth291/yasharth291/blob/main/DRI.png" width="100">      <img src="https://github.com/yasharth291/yasharth291/blob/main/0-removebg-preview.png" width="100">        <img src="https://github.com/yasharth291/yasharth291/blob/main/1200px-Codechef(new)_logo.svg.png" width="100"> 
+  <img src="https://github.com/yasharth291/yasharth291/blob/main/DRI.png" width="100">      <img src="https://github.com/yasharth291/yasharth291/blob/main/0-removebg-preview.png" width="100">        <img src="https://github.com/yasharth291/yasharth291/blob/main/1200px-Codechef(new)_logo.svg.png" width="100"> <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgssoc.girlscript.tech%2F&psig=AOvVaw0mNuMGFqHc43PPIpjchJzi&ust=1614948941419000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCGhuLXlu8CFQAAAAAdAAAAABAD" width = "100">
   <br><br>
 
 
