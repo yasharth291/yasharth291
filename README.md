@@ -30,11 +30,12 @@
  - Flutter Developer (Pixaflip pvt limited)
  - Competetive Coding Lead (Codechef)
  - Mentor (GirlScript Summer Of Code 2021)
+ - Spring intern (Upkey)
   
   <br>
   <p align="center">
   <img src="https://github.com/yasharth291/yasharth291/blob/main/DRI.png" width="100">      <img src="https://github.com/yasharth291/yasharth291/blob/main/0-removebg-preview.png" width="100">        <img src="https://github.com/yasharth291/yasharth291/blob/main/1200px-Codechef(new)_logo.svg.png" width="150" height = "50">  
-  <img src="https://github.com/yasharth291/yasharth291/blob/main/logo3.jpg" width = "150" height = "50">
+  <img src="https://github.com/yasharth291/yasharth291/blob/main/logo3.jpg" width = "150" height = "50"><img src = "https://blog.upkey.com/wp-content/uploads/2018/10/upkey-logo-2019.png" width = "200" height = "50">
   <br><br>
 
 
