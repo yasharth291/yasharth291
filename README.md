@@ -1,3 +1,5 @@
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />
 ### Hi there 👋
 
 
@@ -164,4 +166,3 @@
 <br />
 
 
-<img src = "https://camo.githubusercontent.com/d870ea4aeda94db416359593381aea00b6af544720499a0204ca2f9b6a2b164a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e676966>"/>
