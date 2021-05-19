@@ -29,6 +29,7 @@
 <h4> ‍ <h4/>
   
  ### My Industrial Experiences
+ - Student Developer (Google Summer of Code 2021)
  - Software Developer (Dessicant Rotors International)
  - Flutter Developer (Pixaflip pvt limited)
  - Competetive Coding Lead (Codechef)
