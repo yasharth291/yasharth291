@@ -32,7 +32,8 @@
  - Student Developer (Google Summer of Code 2021)
  - Software Developer (Dessicant Rotors International)
  - Flutter Developer (Pixaflip pvt limited)
- - Competetive Coding Lead (Codechef)
+ - Competitive Coding Lead (Codechef)
+ - President of Campus Chapter (Codechef)
  - Mentor (GirlScript Summer Of Code 2021)
  - Spring intern (Upkey)
   
@@ -52,8 +53,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yasharth291&theme=darkhub">
 </p>
-<hr>
- </br>  
+</br>  
 <hr>
 <h2 align="center">Connect with me on</h2>
 <div align="center" >
