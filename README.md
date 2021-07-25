@@ -47,29 +47,13 @@
 
 
 <h4/>
-
-
-
 <hr>
 <h2 align="center">Github Trophies</h2>
-<p align="center">
+<p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=yasharth291&theme=darkhub">
 </p>
 <hr>
- </br>
- <hr>
-<h2 align="center">Visitor Count</h2>
- <br/>
- <p align="center">
-  <img src="https://profile-counter.glitch.me/yasharth291/count.svg" />
-</p>
-<hr>
-
-
-
-  
-  
-  
+ </br>  
 <hr>
 <h2 align="center">Connect with me on</h2>
 <div align="center" >
