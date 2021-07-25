@@ -49,7 +49,7 @@
 <h4/>
 <hr>
 <h2 align="center">Github Trophies</h2>
-<p align="left">
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yasharth291&theme=darkhub">
 </p>
 <hr>
