@@ -29,6 +29,7 @@
 <h4> ‍ <h4/>
   
  ### My Industrial Experiences
+ - Mentor (Google Summer of Code 2022)
  - Software Development Engineer Intern (Newton School)  
  - Mentor (Github Externship 2021)
  - Student Developer (Google Summer of Code 2021)
