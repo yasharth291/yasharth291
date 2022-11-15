@@ -10,8 +10,6 @@
 </p>
 <h1>I'm <a  href="https://yasharth291.github.io/">Yasharth Dubey</a></h1>
 <p align="left">
-<a href="https://twitter.com/dubey_yasharth" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yasharth-dubey-0434b6155/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h4/>A ML developer, Full Stack and Flutter developer from Mathura. I love to solve problems created by others ;). Codechef 6 ⭐ codeforces Expert<h4/>
 
