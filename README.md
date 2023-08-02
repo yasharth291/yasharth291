@@ -27,6 +27,7 @@
 <h4> ‍ <h4/>
   
  ### My Industrial Experiences
+ - Software Develeopment Enginner Intern (Crib)
  - Software Develeopment Enginner Intern (Amazon)
  - Mentor (Google Summer of Code 2022)
  - Software Development Engineer Intern (Newton School)  
